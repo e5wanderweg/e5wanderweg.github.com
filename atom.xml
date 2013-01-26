@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[e5 Wanderweg]]></title>
-  <link href="http://e5wanderweg.com/atom.xml" rel="self"/>
-  <link href="http://e5wanderweg.com/"/>
-  <updated>2013-01-26T07:46:51+02:00</updated>
-  <id>http://e5wanderweg.com/</id>
+  <link href="http://e5wanderweg.de/atom.xml" rel="self"/>
+  <link href="http://e5wanderweg.de/"/>
+  <updated>2013-01-26T07:50:21+02:00</updated>
+  <id>http://e5wanderweg.de/</id>
   <author>
     <name><![CDATA[Patrick]]></name>
     
