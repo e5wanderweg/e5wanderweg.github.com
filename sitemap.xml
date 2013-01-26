@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://e5wanderweg.github.com/blog/archives/</loc>
+        <loc>http://e5wanderweg.com/blog/archives/</loc>
         <lastmod>2013-01-26T07:17:33+02:00</lastmod>
     </url>
     <url>
-        <loc>http://e5wanderweg.github.com/</loc>
+        <loc>http://e5wanderweg.com/</loc>
         <lastmod>2013-01-26T07:17:33+02:00</lastmod>
     </url>
     <url>
-        <loc>http://e5wanderweg.github.com/robots.txt</loc>
+        <loc>http://e5wanderweg.com/robots.txt</loc>
         <lastmod>2013-01-26T07:17:33+02:00</lastmod>
     </url>
 </urlset>

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://e5wanderweg.github.com/sitemap.xml 
+Sitemap: http://e5wanderweg.com/sitemap.xml 
